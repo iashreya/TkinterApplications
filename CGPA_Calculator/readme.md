@@ -9,5 +9,5 @@ Technologies used in this project:
 	- Tkinter
 	
 	
-<img src="images/image.png"alt="Image1"/>
+<img src="https://github.com/iashreya/TkinterApplications/blob/master/CGPA_Calculator/images/image1.png" alt="Image1"/>
 
