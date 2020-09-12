@@ -8,5 +8,5 @@ Technologies used in this project:
 	- Python
 	- Tkinter
 	
-![ ] (images/image1.png)
+![] (images/image1.png)
 
