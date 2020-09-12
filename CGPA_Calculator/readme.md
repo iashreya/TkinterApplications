@@ -8,6 +8,6 @@ Technologies used in this project:
 	- Python
 	- Tkinter
 	
+	
 <img src="images/image.png"alt="Image1"/>
-
 
