@@ -11,12 +11,12 @@ Technologies used in this project:
 	
 Snippets of the software: 
 
-## This is where you input the number of subjects and labs for the semester
+### This is where you input the number of subjects and labs for the semester
 <img src="https://github.com/iashreya/TkinterApplications/blob/master/CGPA_Calculator/images/image1.png" alt="Image1"/>
 
-## Here you input the subject credit and grades acquired in the subject
+### Here you input the subject credit and grades acquired in the subject
 <img src="https://github.com/iashreya/TkinterApplications/blob/master/CGPA_Calculator/images/image2.png" alt="Image1"/>
 
-## Finally, here's your result :)
+### Finally, here's your result :)
 <img src="https://github.com/iashreya/TkinterApplications/blob/master/CGPA_Calculator/images/image3.png" alt="Image1"/>
 
