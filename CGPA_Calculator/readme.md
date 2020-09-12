@@ -8,5 +8,6 @@ Technologies used in this project:
 	- Python
 	- Tkinter
 	
-![ ] (images/image1.png)
+<img src="images/image.png"alt="Image1"/>
+
 
